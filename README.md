@@ -1,2 +1,2 @@
-# Angular-Javascript
-The angularjs for javascript environment
+# Angular
+This is angularjs note
